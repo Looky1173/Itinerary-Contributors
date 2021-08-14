@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Looky1173",
+      "name": "Looky1173",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60521810?v=4",
+      "profile": "https://scratch.mit.edu/users/SuperScratcher_1234",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Itinerary-Contributors",
+  "projectOwner": "Looky1173",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
