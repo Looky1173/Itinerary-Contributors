@@ -55,6 +55,16 @@
         "ideas",
         "code"
       ]
+    },
+    {
+      "login": "kccuber-scratch",
+      "name": "kccuber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92891642?v=4",
+      "profile": "https://scratch.mit.edu/users/kccuber",
+      "contributions": [
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
