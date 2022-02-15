@@ -50,10 +50,20 @@
       "login": "AnAlgorithm",
       "name": "AnAlgorithm",
       "avatar_url": "https://avatars.githubusercontent.com/u/64064699?v=4",
-      "profile": "https://github.com/AnAlgorithm",
+      "profile": "https://scratch.mit.edu/users/AnAlgorithm",
       "contributions": [
         "ideas",
         "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "kccuber-scratch",
+      "name": "kccuber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92891642?v=4",
+      "profile": "https://scratch.mit.edu/users/kccuber",
+      "contributions": [
+        "test",
         "bug"
       ]
     }
