@@ -66,6 +66,15 @@
         "test",
         "bug"
       ]
+    },
+    {
+      "login": "PoIygon",
+      "name": "Polygon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79771454?v=4",
+      "profile": "http://scratch.mit.edu/users/PoIygon",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
