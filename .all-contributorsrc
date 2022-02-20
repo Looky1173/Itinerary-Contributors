@@ -66,6 +66,15 @@
         "test",
         "bug"
       ]
+    },
+    {
+      "login": "Polygon",
+      "name": "Polygon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51489?v=4",
+      "profile": "https://github.com/polygon",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
