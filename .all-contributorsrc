@@ -75,6 +75,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Sid72020123",
+      "name": "Siddhesh Chavan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70252606?v=4",
+      "profile": "http://sid72020123.github.io",
+      "contributions": [
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
