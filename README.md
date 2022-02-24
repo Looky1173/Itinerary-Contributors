@@ -1,6 +1,6 @@
 # Itinerary-Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Contributors ✨
 
@@ -18,6 +18,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://scratch.mit.edu/users/AnAlgorithm"><img src="https://avatars.githubusercontent.com/u/64064699?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AnAlgorithm</b></sub></a><br /><a href="#ideas-AnAlgorithm" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Looky1173/Itinerary-Contributors/commits?author=AnAlgorithm" title="Code">💻</a> <a href="https://github.com/Looky1173/Itinerary-Contributors/issues?q=author%3AAnAlgorithm" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://scratch.mit.edu/users/kccuber"><img src="https://avatars.githubusercontent.com/u/92891642?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kccuber</b></sub></a><br /><a href="https://github.com/Looky1173/Itinerary-Contributors/commits?author=kccuber-scratch" title="Tests">⚠️</a> <a href="https://github.com/Looky1173/Itinerary-Contributors/issues?q=author%3Akccuber-scratch" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://scratch.mit.edu/users/PoIygon"><img src="https://avatars.githubusercontent.com/u/79771454?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Polygon</b></sub></a><br /><a href="#ideas-PoIygon" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://sid72020123.github.io"><img src="https://avatars.githubusercontent.com/u/70252606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siddhesh Chavan</b></sub></a><br /><a href="https://github.com/Looky1173/Itinerary-Contributors/commits?author=Sid72020123" title="Tests">⚠️</a> <a href="https://github.com/Looky1173/Itinerary-Contributors/issues?q=author%3ASid72020123" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
